@@ -1,8 +1,8 @@
 # Planets
-This demo is similar to [Variety Shoe](https://bender.sheridanc.on.ca/sikkemha/variety-shoe-json-data-on-a-webpage). It uses a [dataset of planets](https://www.mongodb.com/docs/atlas/sample-data/sample-guides/), along with a set of planet icons via [Adobe](https://stock.adobe.com/ca/).
+This demo is similar to [Variety Shoe](https://bender.sheridanc.on.ca/system-design/variety-shoe). It uses a [dataset of planets](https://www.mongodb.com/docs/atlas/sample-data/sample-guides/), along with a set of planet icons via [Adobe](https://stock.adobe.com/ca/).
 
 
-[![Open in Coder](https://ixdcoder.com/open-in-coder.svg)](https://ixdcoder.com/templates/Static/workspace?name=JSONPlanets&mode=auto&param.git_repo=https://bender.sheridanc.on.ca/sikkemha/json-planets)
+[![Open in Coder](https://ixdcoder.com/open-in-coder.svg)](https://ixdcoder.com/templates/Static/workspace?name=JSONPlanets&mode=auto&param.git_repo=https://bender.sheridanc.on.ca/system-design/json-planets)
 
 
 # Sorting
