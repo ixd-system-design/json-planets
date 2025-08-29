@@ -1,6 +1,9 @@
 # Planets
 This demo is similar to [Variety Shoe](https://github.com/ixd-system-design/variety-shoe). It uses a JSON [dataset of planets](https://www.mongodb.com/docs/atlas/sample-data/sample-guides/), along with a set of planet icons via [Adobe](https://stock.adobe.com/ca/). 
 
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/new?template_name=json-planets&template_owner=ixd-system-design)
+
+
 # Sorting
 A key feature in this demo is the sorting of data. In particular it's possible to sort an array of objects based on some common property that all those objects have. The [array sort function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) is quite useful here. In this demo, you'll find two varations: sorting by temperature, and also sorting by distance from the sun.
 
