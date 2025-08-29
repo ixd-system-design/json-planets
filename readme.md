@@ -1,6 +1,8 @@
 # Planets
 This demo is similar to [Variety Shoe](https://github.com/ixd-system-design/variety-shoe). It uses a JSON [dataset of planets](https://www.mongodb.com/docs/atlas/sample-data/sample-guides/), along with a set of planet icons via [Adobe](https://stock.adobe.com/ca/). 
 
+# <kbd>[Use this template]((https://github.com/new?template_name=json-planets&template_owner=ixd-system-design)</kbd>
+
 [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/new?template_name=json-planets&template_owner=ixd-system-design)
 
 
